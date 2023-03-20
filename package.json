@@ -1,0 +1,20 @@
+{
+  "name": "discord-paginator-v13",
+  "version": "1.0.0",
+  "description": "This package allows you to create paginator with buttons using discord.js@v13.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paginator",
+    "buttons",
+    "discord-paginator"
+  ],
+  "author": "Frost.wrld",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.14.0"
+  }
+}
